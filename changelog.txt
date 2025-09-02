@@ -1,0 +1,8 @@
+# Changelog
+
+## [0.1.0] - 2025-09-02
+- Initialized PromeZeus repository
+- Added project structure (nanolab/, api/, data/, workflows/)
+- Added README with setup and usage instructions
+- Added requirements.txt for dependencies
+- Added .gitignore to exclude .venv, __pycache__, and local data
