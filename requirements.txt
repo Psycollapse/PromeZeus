@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+feedparser
+sqlite-utils   # optional if you stick with SQLite
+pymysql        # optional if you use MySQL
