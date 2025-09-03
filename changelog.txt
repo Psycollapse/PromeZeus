@@ -1,5 +1,9 @@
 # Changelog
 
+## - 2025-09-02
+- Added repoDiagram_mermaid.txt, you can use mermaidchart.com to see it
+
+
 ## [0.1.0] - 2025-09-02
 - Initialized PromeZeus repository
 - Added project structure (nanolab/, api/, data/, workflows/)
